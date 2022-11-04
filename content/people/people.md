@@ -21,6 +21,8 @@ content:
     - Grad Students
     - Administration
     - Visitors
+    - Supervisor
+    - Current Students
     - Alumni
 design:
   show_interests: false
