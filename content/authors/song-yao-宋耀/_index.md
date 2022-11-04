@@ -9,5 +9,5 @@ social:
     icon: school
 superuser: true
 user_groups:
-  - Supervisor
+  - Lab Director
 ---
