@@ -1,6 +1,6 @@
 ---
 title: Song Yao 宋耀
-avatar_filename: http://lj.scu.edu.cn/__local/4/FD/8C/D29CC188994768AD8599FD8F984_68130CDF_F00A.jpg
+avatar_filename: ""
 social:
   - display:
       header: false
