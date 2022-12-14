@@ -1,5 +1,5 @@
 ---
-title: 时若岩
+title: 时若岩 Ruoyan Shi
 role: 22-新传JC
 avatar_filename: avatar
 social:
