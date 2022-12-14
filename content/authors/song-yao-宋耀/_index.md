@@ -11,7 +11,7 @@ social:
       header: false
     icon_pack: fas
     icon: envelope
-    link: yao.song@scu.edu.cn
+    link: mailto:yao.song@scu.edu.cn
   - display:
       header: false
     link: http://lj.scu.edu.cn/info/1106/6164.htm
@@ -22,6 +22,8 @@ social:
     icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=LFr3e_oAAAAJ
+organizations:
+  - name: 四川大学 Sichuan University
 education:
   courses:
     - course: PhD in Design
