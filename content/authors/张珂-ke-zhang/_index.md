@@ -33,4 +33,4 @@ user_groups:
 ---
 张珂是四川大学文学与新闻学院艺术理论专业的博士生。她的研究兴趣包括当代艺术、视觉文化和中国早期艺术理论。她领导的 "中国绘画中的透视研究 "小组，旨在展示中国绘画中的透视发展和中国人对透视的看法。
 
-Ke Zhang is a Ph.D. candidate in Art Theory at the College of Literature and Journalism of Sichuan University. Her research interests include contemporary art, visual culture, and early Chinese theory of art. She leads "The Study of Perspective in Chinese Painting" group, which intends to show the development of Perspective in Chinese painting and the Chinese opinion about perspective.
+Ke Zhang is a Ph.D. candidate in Art Theory at the College of Literature and Journalism of Sichuan University. Her research interests include contemporary art, visual culture, and early Chinese theory of art. She leads "The Study of Perspective in Chinese Painting" group, which intends to show the development of perspective in Chinese painting and the Chinese opinion about perspective.
