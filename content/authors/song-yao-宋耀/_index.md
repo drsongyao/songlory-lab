@@ -15,7 +15,7 @@ social:
   - display:
       header: false
     link: http://lj.scu.edu.cn/info/1106/6164.htm
-    icon_pack: far
+    icon_pack: fas
     icon: school
   - display:
       header: false
