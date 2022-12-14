@@ -23,9 +23,9 @@ education:
       year: ""
     - course: MA in Art Theory
       institution: Sichuan University
-      year: ""
+      year: 2021
     - course: BA in Chinese Language and Literature
-      year: ""
+      year: 2018
       institution: Sichuan University
 superuser: false
 user_groups:
