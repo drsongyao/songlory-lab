@@ -21,7 +21,7 @@ social:
   - display:
       header: false
     link: https://qingfusheng.cn/
-    icon_pack: far
+    icon_pack: fas
     icon: blog
 organizations:
   - name: 四川大学 Sichuan University
