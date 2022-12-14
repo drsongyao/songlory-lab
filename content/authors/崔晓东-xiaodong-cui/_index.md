@@ -4,7 +4,7 @@ role: 19-计科CS
 avatar_filename: avatar
 interests:
   - Artificial Intelligence
-  - Nature Language Process
+  - Nature Language Processing
   - Web Crawler
   - Data Mining
 social:
