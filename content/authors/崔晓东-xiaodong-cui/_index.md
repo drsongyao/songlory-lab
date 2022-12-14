@@ -31,4 +31,6 @@ education:
       institution: Sichuan University
       year: 2023
 superuser: false
+user_groups:
+  - Current Members
 ---
