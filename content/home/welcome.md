@@ -10,6 +10,5 @@ design:
   css_style: null
   css_class: null
 ---
-<﻿br>
-
+<br>
 The SongLory Research Group, led by Prof. Yao Song, is established in the Digital Convergence Laboratory of Chinese Cultural Inheritance and Global Communication.
