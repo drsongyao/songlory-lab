@@ -4,8 +4,8 @@ role: 19-软件SE
 avatar_filename: avatar
 interests:
   - Digital Humanities
-  - Social computing
-  - Human-centered AI
+  - Social Computing
+  - Human-Centered AI
 social:
   - display:
       header: false
