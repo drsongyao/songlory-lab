@@ -1,6 +1,6 @@
 ---
 title: 时若岩 Ruoyan Shi
-role: 22-新传JC
+role: 22-新闻JC
 avatar_filename: avatar
 social:
   - display:
