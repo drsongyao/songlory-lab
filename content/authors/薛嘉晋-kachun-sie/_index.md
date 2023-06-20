@@ -26,5 +26,5 @@ education:
       institution: Sichuan University
 superuser: false
 user_groups:
-  - Current Members
+  - Alumni
 ---
