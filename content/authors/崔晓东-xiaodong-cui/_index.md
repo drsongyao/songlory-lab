@@ -32,5 +32,5 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Current Members
+  - Alumni
 ---
